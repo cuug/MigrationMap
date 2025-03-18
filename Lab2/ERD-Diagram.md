@@ -1,0 +1,1 @@
+![alt text](https://github.com/cuug/MigrationMap/Lab2/ERD-Diagram.png)
