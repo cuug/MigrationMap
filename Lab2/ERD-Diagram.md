@@ -1,1 +1,1 @@
-![alt text](https://github.com/cuug/MigrationMap/Lab2/ERD-Diagram.png)
+![alt text](https://github.com/cuug/MigrationMap/blob/master/Lab2/ERP-Diagram.png)
